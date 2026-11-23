@@ -1,26 +1,26 @@
 # Shadowrocket
 
-- **主配置**（[config.conf](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/config.conf)）
-- **交易所**（[exchange.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/exchange.list)）
-- **屏蔽更新**（[ios-update.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/ios-update.list)）
-- **TG**（[telegram.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/telegram.list)）
-- **TG 新加坡**（[telegram-sg.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/telegram-sg.list)）
-- **TG 美国**（[telegram-us.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/telegram-us.list)）
-- **网页去广**（[adblock4limbo.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/adblock4limbo.list)）
-- **抖音 IP 直连**（[dyip-direct.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/dyip-direct.list)）
-- **抖音 IP 走代理**（[dyip-proxy.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/dyip-proxy.list)）
-- **Meta 系**（[meat.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/meat.list)）
-- **Emby**（[emby.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/emby.list)）
-- **推送**（[apple-push.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/apple-push.list)）
-- **苹果服务**（[apple.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/apple.list)）
-- **谷歌**（[google.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/google.list)）
-- **广告终结者**（[Advertising.list](https://raw.githubusercontent.com/Tempus404/ios-rule-split/main/Shadowrocket/Advertising.list)）
-- **广告直连**（[adblock-direct.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/adblock-direct.list)）
-- **红果去广告**（[hongguo.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/hongguo.list)）
-- **红果直连**（[hongguo-direct.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/hongguo-direct.list)）
-- **红果去广告配置**（[HongGuo.conf](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/HongGuo.conf)）
-- **国内分流**（[China.list](https://raw.githubusercontent.com/Tempus404/TempusRule/main/Shadowrocket/China.list)）
-- **全球分流**（[Global.list](https://raw.githubusercontent.com/Tempus404/TempusRule/main/Shadowrocket/Global.list)）
-- **AI**（[ai.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/ai.list)）
-- **Twitch**（[twitch.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/twitch.list)）
-- **贴吧**（[tieba.list](https://raw.githubusercontent.com/xqwzka/ios-rule-split/main/Shadowrocket/tieba.list)）
+- **主配置**（[config.conf](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/config.conf)）
+- **交易所**（[exchange.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/exchange.list)）
+- **屏蔽更新**（[ios-update.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/ios-update.list)）
+- **TG**（[telegram.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/telegram.list)）
+- **TG 新加坡**（[telegram-sg.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/telegram-sg.list)）
+- **TG 美国**（[telegram-us.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/telegram-us.list)）
+- **网页去广**（[adblock4limbo.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/adblock4limbo.list)）
+- **抖音 IP 直连**（[dyip-direct.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/dyip-direct.list)）
+- **抖音 IP 走代理**（[dyip-proxy.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/dyip-proxy.list)）
+- **Meta 系**（[meat.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/meat.list)）
+- **Emby**（[emby.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/emby.list)）
+- **推送**（[apple-push.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/apple-push.list)）
+- **苹果服务**（[apple.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/apple.list)）
+- **谷歌**（[google.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/google.list)）
+- **广告终结者**（[Advertising.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/Advertising.list)）
+- **广告直连**（[adblock-direct.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/adblock-direct.list)）
+- **红果去广告**（[hongguo.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/hongguo.list)）
+- **红果直连**（[hongguo-direct.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/hongguo-direct.list)）
+- **红果去广告配置**（[HongGuo.conf](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/HongGuo.conf)）
+- **国内分流**（[China.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/China.list)）
+- **全球分流**（[Global.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/Global.list)）
+- **AI**（[ai.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/ai.list)）
+- **Twitch**（[twitch.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/twitch.list)）
+- **贴吧**（[tieba.list](https://raw.githubusercontent.com/awoaixxx/TempusRule/main/Shadowrocket/tieba.list)）

@@ -4,4 +4,4 @@
 payload:
 - 'DOMAIN-SUFFIX,snssdk.com'
 - 'DOMAIN-SUFFIX,amemv.com'
-- 'DOMAIN-SUFFIX,zijieapi.com'
+# - 'DOMAIN-SUFFIX,zijieapi.com'
